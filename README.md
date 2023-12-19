@@ -1,7 +1,15 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
-
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+day1: erstes Python Programm "Hello World"
+day2: erste for-Schleife
+day3: for-Schleife mit überspringen
+day4: durchsuchen eines Textes
+day5: rechnen mit einer for-Schleife
+day6: zuordnen von Namen zu einer Frage "friend or foe"
+day7: erstes benutzen von "random"
+day8: erstes arbeiten mit Listen
+day9: erstes arbeiten mit Dictionaries
+day10: leeren von Dictionaries
+day11: arbeiten mit minimal bzw. maximal Werten
+day12: vergleichen von Variablen
+day13: zählen mit while Schleife 
+day14: erste Klasse
+day15: turtle fun
